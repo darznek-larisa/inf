@@ -1,0 +1,24 @@
+D:\Алгоритмы\Работа 5 (Деревья)\Tree\bin\Debug\netcoreapp3.1\Tree.exe
+D:\Алгоритмы\Работа 5 (Деревья)\Tree\bin\Debug\netcoreapp3.1\Tree.deps.json
+D:\Алгоритмы\Работа 5 (Деревья)\Tree\bin\Debug\netcoreapp3.1\Tree.runtimeconfig.json
+D:\Алгоритмы\Работа 5 (Деревья)\Tree\bin\Debug\netcoreapp3.1\Tree.runtimeconfig.dev.json
+D:\Алгоритмы\Работа 5 (Деревья)\Tree\bin\Debug\netcoreapp3.1\Tree.dll
+D:\Алгоритмы\Работа 5 (Деревья)\Tree\bin\Debug\netcoreapp3.1\Tree.pdb
+D:\Алгоритмы\Работа 5 (Деревья)\Tree\obj\Debug\netcoreapp3.1\Tree.csprojAssemblyReference.cache
+D:\Алгоритмы\Работа 5 (Деревья)\Tree\obj\Debug\netcoreapp3.1\Tree.AssemblyInfoInputs.cache
+D:\Алгоритмы\Работа 5 (Деревья)\Tree\obj\Debug\netcoreapp3.1\Tree.AssemblyInfo.cs
+D:\Алгоритмы\Работа 5 (Деревья)\Tree\obj\Debug\netcoreapp3.1\Tree.dll
+D:\Алгоритмы\Работа 5 (Деревья)\Tree\obj\Debug\netcoreapp3.1\Tree.pdb
+C:\Users\79119\OneDrive\Рабочий стол\Itmo\2\инфа\Tree\bin\Debug\netcoreapp3.1\Tree.exe
+C:\Users\79119\OneDrive\Рабочий стол\Itmo\2\инфа\Tree\bin\Debug\netcoreapp3.1\Tree.deps.json
+C:\Users\79119\OneDrive\Рабочий стол\Itmo\2\инфа\Tree\bin\Debug\netcoreapp3.1\Tree.runtimeconfig.json
+C:\Users\79119\OneDrive\Рабочий стол\Itmo\2\инфа\Tree\bin\Debug\netcoreapp3.1\Tree.runtimeconfig.dev.json
+C:\Users\79119\OneDrive\Рабочий стол\Itmo\2\инфа\Tree\bin\Debug\netcoreapp3.1\Tree.dll
+C:\Users\79119\OneDrive\Рабочий стол\Itmo\2\инфа\Tree\bin\Debug\netcoreapp3.1\Tree.pdb
+C:\Users\79119\OneDrive\Рабочий стол\Itmo\2\инфа\Tree\obj\Debug\netcoreapp3.1\Tree.csprojAssemblyReference.cache
+C:\Users\79119\OneDrive\Рабочий стол\Itmo\2\инфа\Tree\obj\Debug\netcoreapp3.1\Tree.csproj.CoreCompileInputs.cache
+C:\Users\79119\OneDrive\Рабочий стол\Itmo\2\инфа\Tree\obj\Debug\netcoreapp3.1\Tree.AssemblyInfoInputs.cache
+C:\Users\79119\OneDrive\Рабочий стол\Itmo\2\инфа\Tree\obj\Debug\netcoreapp3.1\Tree.AssemblyInfo.cs
+C:\Users\79119\OneDrive\Рабочий стол\Itmo\2\инфа\Tree\obj\Debug\netcoreapp3.1\Tree.dll
+C:\Users\79119\OneDrive\Рабочий стол\Itmo\2\инфа\Tree\obj\Debug\netcoreapp3.1\Tree.pdb
+C:\Users\79119\OneDrive\Рабочий стол\Itmo\2\инфа\Tree\obj\Debug\netcoreapp3.1\Tree.genruntimeconfig.cache
